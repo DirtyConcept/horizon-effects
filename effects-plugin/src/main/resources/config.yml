@@ -1,0 +1,36 @@
+general:
+  disabled-effects: []
+  reset-effect-permission: "effects.reset"
+
+death:
+  blue-burst:
+    permission: "effects.death.blue-burst"
+  red-flare:
+    permission: "effects.death.red-flare"
+  yellow-star:
+    permission: "effects.death.yellow-star"
+  beheaded:
+    permission: "effects.death.beheaded"
+  ghosts:
+    permission: "effects.death.ghosts"
+  tombstone:
+    permission: "effects.death.tombstone"
+  totem:
+    permission: "effects.death.totem"
+
+kill:
+  blood-helix:
+    permission: "effects.kill.blood-helix"
+  explosion:
+    permission: "effects.kill.explosion"
+  flame-circle:
+    permission: "effects.kill.flame-circle"
+  lightning:
+    permission: "effects.kill.lightning"
+  rainbow-potion:
+    permission: "effects.kill.rainbow-potion"
+
+mongodb:
+  connection-string: ""
+
+config-version: 1
